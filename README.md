@@ -14,3 +14,8 @@
 - Home page
 ![Homepage1](https://github.com/ChaeEun0112/WebPage/blob/main/Homepage1.jpg)
 ![Homepage2](https://github.com/ChaeEun0112/WebPage/blob/main/Homepage2.jpg)
+- Personal
+![Personal1](https://github.com/ChaeEun0112/WebPage/blob/main/Personal1.jpg)
+![Personal2](https://github.com/ChaeEun0112/WebPage/blob/main/Personal2.jpg)
+- Perfume
+![Perfume](https://github.com/ChaeEun0112/WebPage/blob/main/Perfume.jpg)
