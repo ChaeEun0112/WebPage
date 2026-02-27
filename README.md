@@ -27,7 +27,7 @@
 - Login/Join
 ![Login, Join]()
 - Forgot ID,PW
-![Forgot ID,PW]()
+![Forgot ID,PW](https://github.com/ChaeEun0112/WebPage/blob/main/Forgot%20ID%2CPW.jpg)
 - About
 ![About](https://github.com/ChaeEun0112/WebPage/blob/main/About.jpg)
 - Store
