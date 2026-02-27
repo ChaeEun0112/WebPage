@@ -12,3 +12,5 @@
 - 개인화된 향수 추천 및 구매를 가능하게 하는 웹사이트 프로젝트
 ![Concept](https://github.com/ChaeEun0112/WebPage/blob/main/Concept.jpg)
 ## 💻상세페이지
+- Home page
+![Homepage]()
