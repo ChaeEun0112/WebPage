@@ -12,4 +12,5 @@
 ![Concept](https://github.com/ChaeEun0112/WebPage/blob/main/Concept.jpg)
 ## 💻상세페이지
 - Home page
-![Homepage]()
+![Homepage1](https://github.com/ChaeEun0112/WebPage/blob/main/Homepage1.jpg)
+![Homepage2](https://github.com/ChaeEun0112/WebPage/blob/main/Homepage2.jpg)
