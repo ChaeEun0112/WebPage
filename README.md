@@ -1,4 +1,4 @@
-<img width="349" height="380" alt="image" src="https://github.com/user-attachments/assets/a234844f-4f3f-4d88-a7a5-9314dcd82d97" /># Color Notes
+# Color Notes
 > 개발 기간 : 2023.12
 
 ## 💬의미
