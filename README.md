@@ -24,8 +24,10 @@
 - Shop
 ![Shop1](https://github.com/ChaeEun0112/WebPage/blob/main/Shop1.jpg)
 ![Shop2](https://github.com/ChaeEun0112/WebPage/blob/main/Shop2.jpg)
+- Cart
+![Cart](https://github.com/ChaeEun0112/WebPage/blob/main/Cart.jpg)
 - Login/Join
-![Login, Join]()
+![Login, Join](https://github.com/ChaeEun0112/WebPage/blob/main/Login%2C%20Join.jpg)
 - Forgot ID,PW
 ![Forgot ID,PW](https://github.com/ChaeEun0112/WebPage/blob/main/Forgot%20ID%2CPW.jpg)
 - About
@@ -34,3 +36,5 @@
 ![Store](https://github.com/ChaeEun0112/WebPage/blob/main/Store.jpg)
 - Board
 ![Board](https://github.com/ChaeEun0112/WebPage/blob/main/Board.jpg)
+- Search
+![Search](https://github.com/ChaeEun0112/WebPage/blob/main/Search.jpg)
