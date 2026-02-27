@@ -15,10 +15,10 @@
 - Home page
 ![Homepage1](https://github.com/ChaeEun0112/WebPage/blob/main/Homepage1.jpg)
 ![Homepage2](https://github.com/ChaeEun0112/WebPage/blob/main/Homepage2.jpg)
-- Personal Matching
+- Personal Matching(실제 구현X)
 ![Personal1](https://github.com/ChaeEun0112/WebPage/blob/main/Personal1.jpg)
 ![Personal2](https://github.com/ChaeEun0112/WebPage/blob/main/Personal2.jpg)
-- Perfume Matching
+- Perfume Matching(실제 구현X)
 ![Perfume](https://github.com/ChaeEun0112/WebPage/blob/main/Perfume.jpg)
 - Membership
 ![Membership](https://github.com/ChaeEun0112/WebPage/blob/main/Membership.jpg)
