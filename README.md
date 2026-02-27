@@ -1,4 +1,4 @@
-# ColorNotes
+# Color Notes
 > 개발 기간 : 2023.12
 
 ## 💬의미
