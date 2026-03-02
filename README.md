@@ -1,4 +1,4 @@
-# 🪞Color Notes
+# 🎨Color Notes
 > 웹 페이지 개발 기간 : 2023.12
 ## 💬의미
 > - 퍼스널컬러 매칭과 향수의 용어인 노트를 결합하여 ‘Color Notes’ 사이트 제작
@@ -9,7 +9,7 @@
 > 퍼스널컬러 매칭과 향수 매칭을 통해 자신의 퍼스널컬러 및 어울리는 향수 제품 추천 및 구매
 
 ![Concept](https://github.com/ChaeEun0112/WebPage/blob/main/Concept.jpg)
-## 🎨제작 과정
+## 🛠️제작 과정
 - UI/UX 디자인
   - HTML과 CSS를 사용하여 사용자 친화적인 인터페이스 디자인
   - 직관적인 네비게이션을 통해 쉽게 탐색 가능하도록 구성
