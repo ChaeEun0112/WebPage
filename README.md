@@ -8,7 +8,8 @@
 
 ![Logo](https://github.com/ChaeEun0112/WebPage/blob/main/Logo.png)
 ## 💡개요
-> 퍼스널컬러 매칭과 향수 매칭을 통해 자신의 퍼스널컬러 및 어울리는 향수 제품 추천 및 구매 
+> 퍼스널컬러 매칭과 향수 매칭을 통해 자신의 퍼스널컬러 및 어울리는 향수 제품 추천 및 구매
+
 로고
 
 ![Concept](https://github.com/ChaeEun0112/WebPage/blob/main/Concept.jpg)
