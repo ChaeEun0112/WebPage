@@ -17,7 +17,7 @@
   - 모든 향수를 볼 수 있는 페이지에서 퍼스널컬러별로 분류된 향수로 연결
   - 각 향수에 대한 상세 설명 페이지로의 전환 가능
   - Q&A 게시판 및 사용자 계정 관리 기능을 통해 소통 및 편의성 향상
-## 💻상세페이지
+## 💻상세 페이지
 - Home page
 ![Homepage1](https://github.com/ChaeEun0112/WebPage/blob/main/Homepage1.jpg)
 ![Homepage2](https://github.com/ChaeEun0112/WebPage/blob/main/Homepage2.jpg)
