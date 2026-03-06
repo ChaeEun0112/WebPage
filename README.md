@@ -8,7 +8,7 @@
 
 ![Logo](https://github.com/ChaeEun0112/WebPage/blob/main/Logo.png)
 ## 💡개요
-- 퍼스널컬러 매칭과 향수 매칭을 통해 자신의 퍼스널컬러 및 어울리는 향수 제품 추천 및 구매
+- 퍼스널컬러와 향수 매칭을 통해 사용자의 컬러와 어울리는 향수 추천
 - 직관적 UI/UX로 쉽게 탐색 및 구매 가능
 ![Concept](https://github.com/ChaeEun0112/WebPage/blob/main/Concept.jpg)
 ## 🛠️제작 과정
