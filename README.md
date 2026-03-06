@@ -8,17 +8,17 @@
 
 ![Logo](https://github.com/ChaeEun0112/WebPage/blob/main/Logo.png)
 ## 💡개요
-> 퍼스널컬러 매칭과 향수 매칭을 통해 자신의 퍼스널컬러 및 어울리는 향수 제품 추천 및 구매
-
+- 퍼스널컬러 매칭과 향수 매칭을 통해 자신의 퍼스널컬러 및 어울리는 향수 제품 추천 및 구매
+- 직관적 UI/UX로 쉽게 탐색 및 구매 가능
 ![Concept](https://github.com/ChaeEun0112/WebPage/blob/main/Concept.jpg)
 ## 🛠️제작 과정
 - UI/UX 디자인
-  - HTML과 CSS를 사용하여 사용자 친화적인 인터페이스 디자인
-  - 직관적인 네비게이션을 통해 쉽게 탐색 가능하도록 구성
+  - HTML, CSS를 활용하여 사용자 친화적인 인터페이스 디자인
+  - 직관적인 네비게이션으로 쉽게 탐색 가능
 - 기능 구현
-  - 모든 향수를 볼 수 있는 페이지에서 퍼스널컬러별로 분류된 향수로 연결
-  - 각 향수에 대한 상세 설명 페이지로의 전환 가능
-  - Q&A 게시판 및 사용자 계정 관리 기능을 통해 소통 및 편의성 향상
+  - 퍽스널컬러별 향수 필터링
+  - 상세 향수 설명 페이지 이동 
+  - Q&A 게시판, 사용자 계정 관리 기능로 편의성 향상
 ## 💻상세 페이지
 - Home page
 ![Homepage1](https://github.com/ChaeEun0112/WebPage/blob/main/Homepage1.jpg)
