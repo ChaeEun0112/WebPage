@@ -1,4 +1,4 @@
-# 🎨Color Notes
+# 👩🏻👨🏻Color Notes
 > 웹 페이지 개발 기간 : 2023.12
 
 퍼스널 컬러와 향수 추천을 결합한 맞춤형 웹사이트 프로젝트
@@ -11,7 +11,7 @@
 - 퍼스널컬러와 향수 매칭을 통해 사용자의 컬러와 어울리는 향수 추천
 - 직관적 UI/UX로 쉽게 탐색 및 구매 가능
 ![Concept](https://github.com/ChaeEun0112/WebPage/blob/main/Concept.jpg)
-## 🛠️제작 과정
+## 🎨제작 과정
 - UI/UX 디자인
   - HTML, CSS를 활용하여 사용자 친화적인 인터페이스 디자인
   - 직관적인 네비게이션으로 쉽게 탐색 가능
