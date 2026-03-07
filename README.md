@@ -19,6 +19,11 @@
   - 퍼스널컬러별 향수 필터링
   - 상세 향수 설명 페이지 이동 
   - Q&A 게시판, 사용자 계정 관리 기능로 편의성 향상
+## 🛠️기술 스택
+| <div align="center">기술/도구</div>          | 
+|---------------|
+| <div align="center">Html<div>     | 
+| <div align="center">CSS<div> | 
 ## 💻상세 페이지
 - Home page
 ![Homepage1](https://github.com/ChaeEun0112/WebPage/blob/main/Homepage1.jpg)
