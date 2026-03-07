@@ -26,35 +26,35 @@
 - 상세 향수 설명 페이지 이동 
 - Q&A 게시판, 사용자 계정 관리 기능로 편의성 향상
 ## 🛠️기술 스택
-| <div align="center">기술/도구</div>          | 
-|---------------|
-| <div align="center">Html<div>     | 
-| <div align="center">CSS<div> | 
+| <div align="center">구분</div> | <div align="center">기술</div> |
+|-----|------|
+| <div align="center">Frontend</div> | <div align="center">HTML</div> |
+| <div align="center">Style</div> | <div align="center">CSS</div> |
 ## 💻상세 페이지
-- Home page
+### Home page
 ![Homepage1](https://github.com/ChaeEun0112/WebPage/blob/main/Homepage1.jpg)
 ![Homepage2](https://github.com/ChaeEun0112/WebPage/blob/main/Homepage2.jpg)
-- Personal Matching(실제 구현X)
+### Personal Matching(실제 구현X)
 ![Personal1](https://github.com/ChaeEun0112/WebPage/blob/main/Personal1.jpg)
 ![Personal2](https://github.com/ChaeEun0112/WebPage/blob/main/Personal2.jpg)
-- Perfume Matching(실제 구현X)
+### Perfume Matching(실제 구현X)
 ![Perfume](https://github.com/ChaeEun0112/WebPage/blob/main/Perfume.jpg)
-- Membership
+### Membership
 ![Membership](https://github.com/ChaeEun0112/WebPage/blob/main/Membership.jpg)
-- Shop
+### Shop
 ![Shop1](https://github.com/ChaeEun0112/WebPage/blob/main/Shop1.jpg)
 ![Shop2](https://github.com/ChaeEun0112/WebPage/blob/main/Shop2.jpg)
-- Cart
+### Cart
 ![Cart](https://github.com/ChaeEun0112/WebPage/blob/main/Cart.jpg)
-- Login/Join
+### Login/Join
 ![Login, Join](https://github.com/ChaeEun0112/WebPage/blob/main/Login%2C%20Join.jpg)
-- Forgot ID,PW
+### Forgot ID,PW
 ![Forgot ID,PW](https://github.com/ChaeEun0112/WebPage/blob/main/Forgot%20ID%2CPW.jpg)
-- About
+### About
 ![About](https://github.com/ChaeEun0112/WebPage/blob/main/About.jpg)
-- Store
+### Store
 ![Store](https://github.com/ChaeEun0112/WebPage/blob/main/Store.jpg)
-- Board
+### Board
 ![Board](https://github.com/ChaeEun0112/WebPage/blob/main/Board.jpg)
-- Search
+### Search
 ![Search](https://github.com/ChaeEun0112/WebPage/blob/main/Search.jpg)
